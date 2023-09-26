@@ -1,0 +1,14 @@
+﻿body {
+}
+#div-left{
+    width:70%;
+    height:500px;
+    background-color:bisque;
+    float:left;
+}
+#div-right {
+    width: 30%;
+    height: 500px;
+    background-color:azure;
+    float:left;
+}
